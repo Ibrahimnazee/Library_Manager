@@ -1,0 +1,2 @@
+# Library_Manager
+ 📌 Library Manager Features:  ✅ Add, Search, and Remove Books – Manage your personal collection with ease. ✅ Track Reading Progress – Mark books as read/unread and view reading stats. ✅ Save & Load Automatically – Your library is stored securely in a JSON file. ✅ User-Friendly Interface – Built with Streamlit for a clean and interactive experience. ✅ Genre Selection & Search – Filter books by genre or search by title/author instantly. 🚀

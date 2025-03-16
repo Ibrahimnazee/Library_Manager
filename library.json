@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "year": 1990,
+        "genre": "Biography",
+        "read": true
+    },
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "year": 1500,
+        "genre": "Fiction",
+        "read": true
+    }
+]
